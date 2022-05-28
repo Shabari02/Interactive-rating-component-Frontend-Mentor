@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component
 
-# Click <a href="https://shabari02.github.io/Interactive-rating-component-Frontend-Mentor/">Here</a>
+# Click <a href="https://shabari02.github.io/Interactive-rating-component-Frontend-Mentor/">Here</a> to view
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
