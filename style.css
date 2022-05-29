@@ -149,3 +149,14 @@ h2 {
 ::-webkit-scrollbar {
   display: none;
 }
+@media screen and (min-width:350px) and (max-width: 418px) {
+  .rate-item{
+    margin: 0 4px 0 0;
+  }
+  .rate{
+    padding-left: 20px;
+  }
+  .tq-img{
+    width: 80%;
+  }
+}
